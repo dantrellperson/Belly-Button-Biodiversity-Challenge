@@ -1,0 +1,31 @@
+/* CSS File for Module 14 - Plot.ly */
+
+.body {
+    background-color: #b5ffeb;
+}
+
+.panel-default > .panel-heading-custom {
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url("/Images/vectezy-bacteria.jpg");
+    background-size: 40%;
+    color: gray;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.jumbotron > h1 {
+    text-shadow: 4px 4px 4px black;
+    color: gray;
+    text-align: center;
+    font-weight: bold;
+}
+
+.well {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
